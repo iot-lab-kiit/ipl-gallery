@@ -30,13 +30,13 @@ git clone https://github.com/Your-username/ipl-gallery.git
 
 3.Decide the best suiting sub-category for your component under basic or advanced
 
-4.Go to string.xml file and add the name and the corresponding icon.
+4.Go to < > file and add the name and the corresponding icon.
 
 5.Create the fragment with a demo of the component and the related codes as done in other fragments.
 
-6.Send us a Pull Request discribing about the component you have added.
+6.Send us a Pull Request describing about the component you have added.
 
-`Note -` Adding a component that is alreade listed in the app with minor changes is not allowed.
+`Note -` Adding a component that is already listed in the app with minor changes is not allowed.
 
 <a name="tasks"></a>
 ## Choose from these Tasks
