@@ -60,7 +60,7 @@ greater end-user participation. We currently have a number of successful goods a
 
 <a name="preview"></a>
 ## Website Preview
-
+![image](https://user-images.githubusercontent.com/73037598/136550870-7081929a-9133-4ca4-9246-882cca86b68d.png)
 
 <a name="contents"></a>
 ## Table of Contents
@@ -75,7 +75,7 @@ greater end-user participation. We currently have a number of successful goods a
 
 <a name="play"></a>
 ## Deployed Version
-https://mohitpatel412.github.io/ipl-gallery/
+https://iot-lab-kiit.github.io/ipl-gallery/
 
 [Back to Start](#title)
 
