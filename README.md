@@ -40,15 +40,8 @@ git clone https://github.com/Your-username/ipl-gallery.git
 
 <a name="tasks"></a>
 ## Choose from these Tasks
-1.Adding new UI components of your choice (which is not already present).
 
-2.Creating a simple copy button to directly copy the code snippet to your clipboard. 
-
-3.Any possible UI updates.
-
-4.Refer to [issues](https://github.com/iot-lab-kiit/ipl-gallery/issues) for more tasks.
-
-5.Any other useful updates that comes to your mind.
+Refer to [issues](https://github.com/iot-lab-kiit/ipl-gallery/issues) for more tasks.
 
 
 <a name="about_developers"></a>
@@ -60,7 +53,7 @@ greater end-user participation. We currently have a number of successful goods a
 
 <a name="preview"></a>
 ## Website Preview
-
+![image](https://user-images.githubusercontent.com/73037598/136550870-7081929a-9133-4ca4-9246-882cca86b68d.png)
 
 <a name="contents"></a>
 ## Table of Contents
@@ -75,7 +68,7 @@ greater end-user participation. We currently have a number of successful goods a
 
 <a name="play"></a>
 ## Deployed Version
-https://mohitpatel412.github.io/ipl-gallery/
+https://iot-lab-kiit.github.io/ipl-gallery/
 
 [Back to Start](#title)
 
