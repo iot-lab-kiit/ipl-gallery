@@ -3,7 +3,7 @@ function upDate(previewPic){
     document.getElementById('image').style.backgroundImage = "url("+previewPic.src+")";
 }
 
-	function unDo(){
-    document.getElementById('image').innerHTML = "Hover over a LOGO to display"
-    document.getElementById('image').style.backgroundImage = "url('images/ipl.png')";
+function unDo(){
+    document.getElementById('image').innerHTML = "IPL";
+    document.getElementById('image').style.backgroundImage = "url('./images/ipl_logo.jpg')";
 }
