@@ -1,51 +1,55 @@
 <!DOCTYPE html>
- <html lang="en">
- <head>
-	 <meta charset="UTF-8">
-	 <title>IPL Photo Gallery</title>
-   <link rel="icon" type="image/png" href="images/ipl.png">
-	 <link rel="stylesheet" href="css/gallery.css">
-	 <script src = "js/gallery.js"></script>
+<html lang="en">
 
- </head>
- <body>
+  <head>
+    <meta charset="UTF-8" />
+    <title>IPL Photo Gallery</title>
+    <link rel="icon" type="image/png" href="images/ipl.png" />
+    <link rel="stylesheet" href="css/gallery.css" />
+  </head>
 
-	 <div style="background-image:url(images/ipl.png); background-size:contain; background-position: center;" id = "image">
-	 				
-	  	Hover over an LOGO below to display here.
-	 </div>
-	 
-	  <a href="https://www.chennaisuperkings.com/CSK_WEB/index.html">
-	 <img class = "preview" alt = "Chennai Super Kings" src = "images/csk.jpg" onmouseover = "upDate(this)" onmouseout = "unDo()">
+  <body>
+    <div class="row">
+      <div class="column" align="center">
+        <div id="image">
+          <img class="loadImg" src="./images/ipl_logo.jpg" alt="IPL">
+        </div>
+         <a href="https://www.chennaisuperkings.com/CSK_WEB/index.html">
+        <img class="preview" alt="Chennai Super Kings" src="images/csk.jpg" onmouseover="upDate(this)"
+          onmouseout="unDo()" />
           </a>
-	 
-   <a href="https://www.mumbaiindians.com/">
-   <img class = "preview" alt = "Mumbai Indians" src = "images/mi.jpg" onmouseover = "upDate(this)" onmouseout = "unDo()">
-   </a>
-   
-   <a href="https://www.sunrisershyderabad.in/">	 
-   <img class = "preview" alt = "Sunrisers Hyderabad" src = "images/srh.jpg" onmouseover = "upDate(this)" onmouseout = "unDo()">
-   </a>
-	 
-   <a href="https://www.kkr.in/">
-   <img class = "preview" alt = "Kolkata Night Riders" src = "images/kkr1.jpg" onmouseover = "upDate(this)" onmouseout = "unDo()">
-   </a>
-		   
-   <a href="https://www.rajasthanroyals.com/">
-   <img class = "preview" alt = "Rajasthan Royals" src = "images/rr1.jpg" onmouseover = "upDate(this)" onmouseout = "unDo()"> 
-   </a>
+         <a href="https://www.delhicapitals.in/">
+        <img class="preview" alt="Dehli Capitals" src="images/dc.jpg" onmouseover="upDate(this)" onmouseout="unDo()" />
+        </a>  
+        <a href="https://www.kkr.in/">
+        <img class="preview" alt="Kolkata Knight Riders" src="images/kkr.jpg" onmouseover="upDate(this)"
+          onmouseout="unDo()" />
+          </a>
+          <a href="https://www.mumbaiindians.com/">
+        <img class="preview" alt="Mumbai Indians" src="images/mi.jpg" onmouseover="upDate(this)" onmouseout="unDo()" />
+        </a>
+      </div>
 
-   <a href="https://www.punjabkingsipl.in/">
-   <img class = "preview" alt = "Kings XI Punjab" src = "images/kxip.jpg" onmouseover = "upDate(this)" onmouseout = "unDo()">
-   </a>
+      <div class="column" align="center">
+        <a href="https://www.punjabkingsipl.in/">
+        <img class="preview" alt="Punjab Kings" src="images/pk.jpg" onmouseover="upDate(this)" onmouseout="unDo()" />
+        </a>
+        <a href="https://www.rajasthanroyals.com/">
+        <img class="preview" alt="Rajasthan Royals" src="images/rr.jpg" onmouseover="upDate(this)"
+          onmouseout="unDo()" />
+          </a>
+          <a href="https://www.royalchallengers.com/">
+        <img class="preview" alt="Royal Challengers Bangalore" src="images/rcb.jpg" onmouseover="upDate(this)"
+          onmouseout="unDo()" />
+          </a>
+           <a href="https://www.sunrisershyderabad.in/">	 
+        <img class="preview" alt="Sunrisers Hyderabad" src="images/srh.jpg" onmouseover="upDate(this)"
+          onmouseout="unDo()" />
+          </a>
+      </div>
+    </div>
 
-    <a href="https://www.royalchallengers.com/">
-    <img class = "preview" alt = "Royal Challengers Bangalore" src = "images/rcb.jpg" onmouseover = "upDate(this)" onmouseout = "unDo()">
-    </a>
-			      
-   <a href="https://www.delhicapitals.in/">
-   <img class = "preview" alt = "Dehli Capitals" src = "images/dc.jpg" onmouseover = "upDate(this)" onmouseout = "unDo()">  
-   </a>
-
+    <script src="js/gallery.js"></script>
   </body>
+
 </html>
