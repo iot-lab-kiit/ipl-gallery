@@ -5,5 +5,5 @@ function upDate(previewPic){
 
 function unDo(){
     document.getElementById('image').innerHTML = "IPL";
-    document.getElementById('image').style.backgroundImage = "url('./images/ipl_logo.jpg')";
+    document.getElementById('image').style.backgroundImage = "url('./images/ipl2.png')";
 }
